@@ -1,6 +1,6 @@
 # YT Lights Out
 
-<img width="2529" height="1350" alt="image" src="https://github.com/user-attachments/assets/a0f7fdce-43ff-4b53-ab7a-95e9111ea51a" />
+<img width="2532" height="1342" alt="image" src="https://github.com/user-attachments/assets/3a226b67-6289-4905-9ae5-e37e3447836f" />
 
 ## Features
 - Theatre Mode turns on when enabled if not already.
