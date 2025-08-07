@@ -21,9 +21,9 @@ You need a userscript manager such as:
 
 #### Step 2: Get the Script
 
-Just click [here](https://github.com/oh-ari/DropoutFix/blob/main/dropout.user.js), or for instant installation, the raw page is below and at least with TamperMonkey, this will prompt it to more or less automatically add it for you.
+Just click [here](https://github.com/oh-ari/yt-lightsout/blob/main/youtube-lightsout.user.js), or for instant installation, the raw page is below and at least with TamperMonkey, this will prompt it to more or less automatically add it for you.
 
-[dropout.user.js](https://github.com/oh-ari/DropoutFix/raw/refs/heads/main/dropout.user.js)
+[lightsout.user.js](https://github.com/oh-ari/yt-lightsout/raw/refs/heads/main/youtube-lightsout.user.js)
 
 #### Step 3: Install the Script
 
